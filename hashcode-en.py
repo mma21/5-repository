@@ -5,6 +5,8 @@
 HashCode
 '''
 
+#Мигель Адживапаев 5 репозиторий
+
 import hashlib
 from base64 import b64encode, b64decode
 import codecs
